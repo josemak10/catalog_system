@@ -1,0 +1,18 @@
+syntax: glob
+*~
+*.pyc
+*.pyo
+dist/
+build/
+_build/
+*.egg-info/
+.eggs/
+.coverage
+*,cover
+node_modules/
+bower_components/
+.tox/
+locale/*.json
+
+.idea/
+report/.~lock.competition.fodt#
